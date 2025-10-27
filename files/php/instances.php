@@ -14,7 +14,7 @@ $instance['quidditasServeur'] = array_merge($instance['quidditasServeur'], array
     "whitelistActive" => false,
     "status" => array(
         "nameServer" => "Quidditas Serveur",
-        "ip" => "mc.miliani.fr",
+        "ip" => "90.15.98.119",
         "port" => 25565
     )
 ));
